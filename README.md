@@ -1,4 +1,4 @@
-### 👋 Hey there! I'm Supun Chathurangi, 
+### 👋 Hey there! I'm Supun, 
 
 My journey in the world of coding began with a curiosity that soon turned into a full-blown passion. With a keen eye for detail and a knack for innovation, I thrive on challenges that push the boundaries of what's possible. Whether it's tinkering with new technologies or diving deep into algorithmic puzzles. Let's connect and build something amazing together!
 
