@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hey there! I'm Supun Chathurangi, a passionate developer with a love for crafting elegant solutions to complex problems. My journey in the world of coding began with a curiosity that soon turned into a full-blown passion. With a keen eye for detail and a knack for innovation, I thrive on challenges that push the boundaries of what's possible. Whether it's tinkering with new technologies or diving deep into algorithmic puzzles, I'm always on the lookout for opportunities to learn and grow. Let's connect and build something amazing together!
 
 <!--
 **wbmscw/wbmscw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
